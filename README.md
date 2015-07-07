@@ -1,22 +1,10 @@
-Calculator
+Sampene's Mod Calcus
 ====
-Copyright (c) 2014  peyman ghafari pour ( پیمان غفاری پور )
-
-
+Copyright (c) 2015
 license:
 
         GNU v3
 
-author,
-programmer,
-etc:
-
-        peyman ghafari pour ( پیمان غفاری پور )
-
-
-blog:
-
-        beshkan.blog.ir/page/program
 
 
 
