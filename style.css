@@ -18,7 +18,7 @@ table {
     border-radius: 2px;
     border: solid 1px black;
     background-color: #00baff;
-    color: #333333;
+    color: #ffffff;
     transition: background-color 1s, border-color 1s, color 500ms;
 }
 
