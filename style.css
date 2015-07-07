@@ -17,7 +17,7 @@ table {
     font-size: 18px;
     border-radius: 2px;
     border: solid 1px black;
-    background-color: #eeeeee;
+    background-color: #00baff;
     color: #333333;
     transition: background-color 1s, border-color 1s, color 500ms;
 }
